@@ -1,0 +1,15 @@
+\\192.168.30.50\Users\Public\UC09-TECNICO-EM-INFORMÁTICA\ex01\bin\Debug\net6.0\ex01.exe
+\\192.168.30.50\Users\Public\UC09-TECNICO-EM-INFORMÁTICA\ex01\bin\Debug\net6.0\ex01.deps.json
+\\192.168.30.50\Users\Public\UC09-TECNICO-EM-INFORMÁTICA\ex01\bin\Debug\net6.0\ex01.runtimeconfig.json
+\\192.168.30.50\Users\Public\UC09-TECNICO-EM-INFORMÁTICA\ex01\bin\Debug\net6.0\ex01.dll
+\\192.168.30.50\Users\Public\UC09-TECNICO-EM-INFORMÁTICA\ex01\bin\Debug\net6.0\ex01.pdb
+\\192.168.30.50\Users\Public\UC09-TECNICO-EM-INFORMÁTICA\ex01\obj\Debug\net6.0\ex01.csproj.AssemblyReference.cache
+\\192.168.30.50\Users\Public\UC09-TECNICO-EM-INFORMÁTICA\ex01\obj\Debug\net6.0\ex01.GeneratedMSBuildEditorConfig.editorconfig
+\\192.168.30.50\Users\Public\UC09-TECNICO-EM-INFORMÁTICA\ex01\obj\Debug\net6.0\ex01.AssemblyInfoInputs.cache
+\\192.168.30.50\Users\Public\UC09-TECNICO-EM-INFORMÁTICA\ex01\obj\Debug\net6.0\ex01.AssemblyInfo.cs
+\\192.168.30.50\Users\Public\UC09-TECNICO-EM-INFORMÁTICA\ex01\obj\Debug\net6.0\ex01.csproj.CoreCompileInputs.cache
+\\192.168.30.50\Users\Public\UC09-TECNICO-EM-INFORMÁTICA\ex01\obj\Debug\net6.0\ex01.dll
+\\192.168.30.50\Users\Public\UC09-TECNICO-EM-INFORMÁTICA\ex01\obj\Debug\net6.0\refint\ex01.dll
+\\192.168.30.50\Users\Public\UC09-TECNICO-EM-INFORMÁTICA\ex01\obj\Debug\net6.0\ex01.pdb
+\\192.168.30.50\Users\Public\UC09-TECNICO-EM-INFORMÁTICA\ex01\obj\Debug\net6.0\ex01.genruntimeconfig.cache
+\\192.168.30.50\Users\Public\UC09-TECNICO-EM-INFORMÁTICA\ex01\obj\Debug\net6.0\ref\ex01.dll
