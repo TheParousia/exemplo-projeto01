@@ -5,11 +5,66 @@ build_property.UsingMicrosoftNETSdkWeb =
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
-build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ex01
+<<<<<<< HEAD
 <<<<<<< HEAD
 build_property.ProjectDir = c:\Users\lucas10989316\Documents\Projeto01\exemplo-projeto01\
 =======
 build_property.ProjectDir = c:\Users\Yasmim48245746\Documents\Projeto 01\exemplo-projeto01\
 >>>>>>> e6d153640bb1412f131f2a5cb98a8fea855fd1e7
+=======
+<<<<<<< HEAD
+build_property.ProjectDir = c:\Users\neila48377036\Documents\projeto01\exemplo-projeto01\
+=======
+build_property.ProjectDir = c:\Users\Yasmim48245746\Documents\Projeto 01\exemplo-projeto01\
+>>>>>>> e6d153640bb1412f131f2a5cb98a8fea855fd1e7
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+build_property.ProjectDir = c:\Users\kethellen48382566\Documents\projeto01\exemplo-projeto01\
+=======
+<<<<<<< HEAD
+build_property.ProjectDir = c:\Users\rafael48245716\Documents\Projeto01\exemplo-projeto01\
+=======
+<<<<<<< HEAD
+build_property.ProjectDir = c:\Users\luis11003156\Documents\Projeto-01\exemplo-projeto01\
+=======
+<<<<<<< HEAD
+build_property.ProjectDir = c:\Users\samara48240196\Documents\Projeto01\exemplo-projeto01\
+=======
+<<<<<<< HEAD
+build_property.ProjectDir = c:\Users\antonio48241686\Documents\Projeto01\exemplo-projeto01\
+>>>>>>> 8a8139b9e8cc3d32eebe9ba1cd728451e8d1b7d7
+>>>>>>> 2e7f50738da984c9197cb007ae9d76943cc3235e
+>>>>>>> ed9f9f059f00258f1a8b1bcaa1a8c7383cd490a0
+>>>>>>> 0ded227c6395550f29bc1fe9e15615e3e4a09d0b
+=======
+build_property.ProjectDir = c:\Users\gabriel11119477\Documents\Porjeto01\exemplo-projeto01\
+>>>>>>> 92baa9b3f1b2ea71b34a5f6bf3efa96ea2d669c4
+=======
+build_property.ProjectDir = c:\Users\Yasmim48245746\Documents\Projeto 01\exemplo-projeto01\
+>>>>>>> e6d153640bb1412f131f2a5cb98a8fea855fd1e7
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+=======
+build_property.ProjectDir = c:\Users\avril48340866\Documents\Projeto01\exemplo-projeto01\
+=======
+build_property.ProjectDir = c:\Users\Yasmim48245746\Documents\Projeto 01\exemplo-projeto01\
+>>>>>>> e6d153640bb1412f131f2a5cb98a8fea855fd1e7
+=======
+build_property.ProjectDir = c:\Users\joao11283886\Documents\Projeto -02\exemplo-projeto01\
+>>>>>>> 024731fd021619f58fc5236cbf3b30cc411d55e5
+>>>>>>> f7e4afb2afc04c34f876500e5cdc28a73ae045b2
+>>>>>>> 8a8139b9e8cc3d32eebe9ba1cd728451e8d1b7d7
+>>>>>>> 2e7f50738da984c9197cb007ae9d76943cc3235e
+>>>>>>> ed9f9f059f00258f1a8b1bcaa1a8c7383cd490a0
+>>>>>>> 0ded227c6395550f29bc1fe9e15615e3e4a09d0b
+>>>>>>> 376e9b27910d0a84c6e3e3b8749aad294bfcfbfe
+>>>>>>> b2f25497e87a875ddfa8a33ea15bd230f1a26d59
