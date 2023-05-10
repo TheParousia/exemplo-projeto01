@@ -9,7 +9,11 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ex01
 <<<<<<< HEAD
+<<<<<<< HEAD
 build_property.ProjectDir = c:\Users\rafael48245716\Documents\Projeto01\exemplo-projeto01\
 =======
 build_property.ProjectDir = c:\Users\gabriel11119477\Documents\Porjeto01\exemplo-projeto01\
 >>>>>>> 92baa9b3f1b2ea71b34a5f6bf3efa96ea2d669c4
+=======
+build_property.ProjectDir = c:\Users\Yasmim48245746\Documents\Projeto 01\exemplo-projeto01\
+>>>>>>> e6d153640bb1412f131f2a5cb98a8fea855fd1e7
