@@ -12,11 +12,11 @@ class Program{
             Console.Clear();
 
             Console.WriteLine("\tMENU");
-            Console.WriteLine("1- Calcula área do losango");
-            Console.WriteLine("2- Área do quadrado");
+            Console.WriteLine("1- Opção 1");
+            Console.WriteLine("2- Opção 2");
             Console.WriteLine("3- Opção 3");
             Console.WriteLine("4- Opção 4");
-            Console.WriteLine("5- CalculaVolumeEsfera 5");
+            Console.WriteLine("5- Opção 5");
             Console.WriteLine("6- Opção 6");
             Console.WriteLine("4- Sair\n");
 
