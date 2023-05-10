@@ -8,7 +8,11 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ex01
 <<<<<<< HEAD
+<<<<<<< HEAD
 build_property.ProjectDir = c:\Users\avril48340866\Documents\Projeto01\exemplo-projeto01\
 =======
 build_property.ProjectDir = c:\Users\Yasmim48245746\Documents\Projeto 01\exemplo-projeto01\
 >>>>>>> e6d153640bb1412f131f2a5cb98a8fea855fd1e7
+=======
+build_property.ProjectDir = c:\Users\joao11283886\Documents\Projeto -02\exemplo-projeto01\
+>>>>>>> 024731fd021619f58fc5236cbf3b30cc411d55e5
