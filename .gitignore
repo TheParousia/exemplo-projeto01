@@ -403,6 +403,7 @@ FodyWeavers.xsd
 # .NET Core build folders
 bin/
 obj/
+obj/Debug/net6.0/**
 obj/Debug/net6.0/ex01.assets.cache
 obj/Debug/net6.0/ex01.csproj.AssemblyReference.cache
 obj/Debug/net6.0/ex01.GeneratedMSBuildEditorConfig.editorconfig
